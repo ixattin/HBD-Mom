@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding-bottom: 2rem;
+    margin: 5%;
+    background-image: url("https://media.giphy.com/media/2tNvsKkc0qFdNhJmKk/giphy.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  p {
+
+    font-size: large;
+  }
+  
